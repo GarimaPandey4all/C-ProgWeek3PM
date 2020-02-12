@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581550952 source:e:\training\cprograms\3d_example_3pm\main.c
+	<stdio.h>
+	<stdlib.h>
+
