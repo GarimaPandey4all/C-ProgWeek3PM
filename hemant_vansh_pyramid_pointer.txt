@@ -1,0 +1,28 @@
+				
+				
+			n-1	n n+1
+				*
+			   ***
+			  *****
+			 *******
+			*********
+			
+			3 rows columns 5
+			4 rows columns 7
+			
+			i=5, j=2n-1= 9
+			
+			
+
+int b=10; //normal variable
+
+int *a=&b; //pointer varaible //indrection way
+
+a= %d
+%p
+*a- derefencing operator
+
+
+
+
+
